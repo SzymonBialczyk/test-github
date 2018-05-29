@@ -1,5 +1,5 @@
 7.alt + z - View:toggle word wrap
-8. shift + J + strzałka w góre - join lines 
+8. shift + J + ctrl- join lines 
 
 
 (z tego co zauwazylem skroty moga byc inne w wersjach vscode, dlatego podaje rowniez nazwe komendy w konsoli)
